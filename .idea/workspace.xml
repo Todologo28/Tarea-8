@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="669e418d-afe4-4978-96a0-b570d3f5aeb0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculadora/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculadora/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculadora/FigurGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculadora/FiguraGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculadora/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculadora/Pentagono.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculadora/Potencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculadora/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculadora/Triangulo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dmbOMVOTf2AKC5uxrxYuXzWK3e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Figura" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Calculadora" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="669e418d-afe4-4978-96a0-b570d3f5aeb0" name="Changes" comment="" />
+      <created>1710616169139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710616169139</updated>
+      <workItem from="1710616170249" duration="3288000" />
+      <workItem from="1710619488261" duration="894000" />
+      <workItem from="1710621729655" duration="1552000" />
+      <workItem from="1710705844575" duration="86000" />
+      <workItem from="1710706237043" duration="3985000" />
+      <workItem from="1710710345449" duration="1300000" />
+      <workItem from="1710711666964" duration="8567000" />
+      <workItem from="1710725621319" duration="752000" />
+      <workItem from="1710726653350" duration="54000" />
+      <workItem from="1710781727794" duration="13000" />
+      <workItem from="1711218146242" duration="153000" />
+      <workItem from="1711218617808" duration="12000" />
+      <workItem from="1711221986661" duration="1599000" />
+      <workItem from="1711241882165" duration="128000" />
+      <workItem from="1712263528475" duration="322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
